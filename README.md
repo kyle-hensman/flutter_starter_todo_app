@@ -36,7 +36,7 @@ rps generate icons
 
 The project architecture is based on Clean Architecture which promotes the separation of concerns and the creation of highly maintainable and flexible software systems. This is accomplished by organizing the codebase into independent layers that communicate through defined interfaces.
 
-![folder structure](https://raw.githubusercontent.com/eastcodetech/flutter_starter_todo_app/main/docs/images/layer-structure.webp?token=GHSAT0AAAAAACI6VTHOBTNDI5TBFGC5EPPUZLN74VQ)
+![folder structure](https://raw.githubusercontent.com/eastcodetech/flutter_starter_todo_app/main/docs/images/layer-structure.webp?token=GHSAT0AAAAAACI6VTHPSWKQGXXBLDXUONGKZLN76XQ)
 
 <br />
 
