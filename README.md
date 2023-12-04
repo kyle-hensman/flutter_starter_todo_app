@@ -36,7 +36,7 @@ rps generate icons
 
 The project architecture is based on Clean Architecture which promotes the separation of concerns and the creation of highly maintainable and flexible software systems. This is accomplished by organizing the codebase into independent layers that communicate through defined interfaces.
 
-![folder structure](https://github.com/eastcodeca/flutter_starter_todo_app/docs.images/../../../../../docs/images/layer-structure.webp)
+![folder structure](https://raw.githubusercontent.com/eastcodetech/flutter_starter_todo_app/main/docs/images/layer-structure.webp)
 
 <br />
 
@@ -44,7 +44,7 @@ The project architecture is based on Clean Architecture which promotes the separ
 
 The folder structure consists of a multiple layers, at the root level, we have the `config` folder, used to store specific applicaiton configuration data like `router`, `constants`, and `theme`. After the `config` folder, we have the `core` folder used to share code across different features in our app. These would hold things like app wide `usecases`, `utils`, `error`, and more. Then we have the `features` folder, where each feature of our app is broken down into separate layers. For example, in the `features` folder we have the `todo` feature, this includes everthing we need to add a Todo List feature to our application.
 
-![folder structure](https://github.com/eastcodeca/flutter_starter_todo_app/docs.images/../../../../../docs/images/folder-structure.webp)
+![folder structure](https://raw.githubusercontent.com/eastcodetech/flutter_starter_todo_app/main/docs/images/folder-structure.webp)
 
 <br />
 
