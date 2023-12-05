@@ -113,7 +113,7 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
               const Divider(),
-              Container(
+              SizedBox(
                 height: MediaQuery.of(context).size.height / 1.5,
                 width: double.infinity,
                 child: BlocBuilder<HomePageBloc, HomePageState>(
@@ -126,7 +126,7 @@ class _HomePageState extends State<HomePage> {
 
                     if (state is HomePageLoaded) {
                       if (state.todos.isNotEmpty) {
-                        return Container(
+                        return SizedBox(
                           // height: MediaQuery.of(context).size.height / 1.5,
                           width: double.infinity,
                           child: ListView.builder(
@@ -144,7 +144,7 @@ class _HomePageState extends State<HomePage> {
                                         : TextDecoration.none,
                                   ),
                                 ),
-                                trailing: Container(
+                                trailing: SizedBox(
                                   width:
                                       MediaQuery.of(context).size.width * 0.30,
                                   child: Row(

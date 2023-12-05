@@ -1,4 +1,3 @@
-import 'package:flutter_starter_todo_app/config/theme.dart';
 import 'package:get_it/get_it.dart';
 import 'package:isar/isar.dart';
 import 'package:path_provider/path_provider.dart';
