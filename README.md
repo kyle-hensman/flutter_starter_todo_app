@@ -2,6 +2,8 @@
 
 A simple Todo App built with Flutter using Clean Architecture, BLoC for state management, go_router for navigation and Isar for local storage.
 
+![Flutter Starter Todo App](docs/images/flutter-todo-starter-app.png "Flutter Starter Todo App")
+
 <br />
 
 ## Getting Started
