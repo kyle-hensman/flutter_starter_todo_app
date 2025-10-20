@@ -39,7 +39,7 @@ const TodoModelSchema = CollectionSchema(
   getId: _todoModelGetId,
   getLinks: _todoModelGetLinks,
   attach: _todoModelAttach,
-  version: '3.1.0+1',
+  version: '3.3.0-dev.3',
 );
 
 int _todoModelEstimateSize(

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:bloc_test/bloc_test.dart';
-import 'package:isar/isar.dart';
+import 'package:isar_community/isar.dart';
 import 'package:mockito/mockito.dart';
 
 import 'package:flutter_starter_todo_app/features/todo/presentation/pages/home/home_event.dart';

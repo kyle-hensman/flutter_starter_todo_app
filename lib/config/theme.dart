@@ -128,7 +128,7 @@ class AppThemes {
           fontSize: AppFonts.jumbo,
         ),
       ),
-      tabBarTheme: TabBarTheme(
+      tabBarTheme: TabBarThemeData(
         labelColor: AppColors.secondaryLight,
         unselectedLabelColor: AppColors.secondaryLight,
         indicator: UnderlineTabIndicator(
@@ -253,7 +253,7 @@ class AppThemes {
           fontSize: AppFonts.jumbo,
         ),
       ),
-      tabBarTheme: TabBarTheme(
+      tabBarTheme: TabBarThemeData(
         labelColor: AppColors.secondaryDark,
         unselectedLabelColor: AppColors.secondaryDark,
         indicator: UnderlineTabIndicator(

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_starter_todo_app/features/todo/domain/entities/todo_entity.dart';
-import 'package:isar/isar.dart';
+import 'package:isar_community/isar.dart';
 
 import 'package:flutter_starter_todo_app/core/utils/locator.dart';
 import 'package:flutter_starter_todo_app/features/todo/data/model/todo_model.dart';

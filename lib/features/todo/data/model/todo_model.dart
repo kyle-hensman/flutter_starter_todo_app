@@ -1,6 +1,6 @@
 // ignore_for_file: overridden_fields, annotate_overrides
 
-import 'package:isar/isar.dart';
+import 'package:isar_community/isar.dart';
 
 import 'package:flutter_starter_todo_app/features/todo/domain/entities/todo_entity.dart';
 
